@@ -1,0 +1,56 @@
+/*.user_details {
+	margin-right: 20px;
+	margin-left: 20px;
+	background-color: white;
+
+}
+
+*/
+
+.user{
+	color: #ffffff;
+	margin-right: 20px;
+	margin-left:20px;
+	background-color: #5a2f95d6;
+	padding: 30px 30px;
+}/*.user_details {
+	margin-right: 20px;
+	margin-left: 20px;
+	background-color: white;
+
+}
+
+*/
+.postButton{
+	color: azure;
+	background-color: #2594b8;
+}
+
+.user img{
+	height: 150px;
+	width:150px;
+	margin: auto;
+}
+
+.main-content {
+	margin-top: 13px;
+	background-color: rgb(255, 255, 255);
+}
+
+.post_profile_pic img {
+ vertical-align: middle;
+    height: 70px;
+    border: 2px solid;
+    width: 70px;
+    border-radius: 50%;
+	
+}
+
+.posted_by{
+
+	text-align: right;
+}
+
+.status_update{
+	background-color: #ffffff;
+}
